@@ -73,9 +73,11 @@ on a.id = b.id;
 🛠️ Tech Stack
 
 SQL (Data Analysis)
+
 CSV Dataset (Disney+ Hotstar data)
 
 👨‍💻 Author
 
 Anomitro Chatterjee
+
 Data Analyst | SQL | Power BI | Excel
