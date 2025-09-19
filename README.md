@@ -1,4 +1,5 @@
 📊 **Disney+ Hotstar SQL Data Analysis**
+
 📖 **Overview**
 
 This project explores Disney+ Hotstar content data (movies, shows, genres, actors, countries) using SQL.
